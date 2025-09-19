@@ -1,0 +1,265 @@
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Task Managment App.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Task Managment App.exe
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Task Managment App.deps.json
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Task Managment App.runtimeconfig.json
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Humanizer.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.csproj.AssemblyReference.cache
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.AddCategoryForm.resources
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.AddTaskForm.resources
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.CalendarForm.resources
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.CategoriesForm.resources
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.HomeForm.resources
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.LoginForm.resources
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.MainForm.resources
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.RegisterForm.resources
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.TasksForm.resources
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Properties.Resources.resources
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.csproj.GenerateResource.cache
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.AssemblyInfoInputs.cache
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.AssemblyInfo.cs
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.csproj.CoreCompileInputs.cache
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task Man.2C362951.Up2Date
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\refint\Task Managment App.dll
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.pdb
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.genruntimeconfig.cache
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\bin\Debug\net8.0-windows\Task Managment App.pdb
+E:\ITI\Linq&EF\Task Managment App\Task Managment App\obj\Debug\net8.0-windows\ref\Task Managment App.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Task Managment App.exe
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Task Managment App.deps.json
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Task Managment App.runtimeconfig.json
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Task Managment App.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Task Managment App.pdb
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Humanizer.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.csproj.AssemblyReference.cache
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.AddCategoryForm.resources
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.AddTaskForm.resources
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.CalendarForm.resources
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.CategoriesForm.resources
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.HomeForm.resources
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.LoginForm.resources
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.MainForm.resources
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.RegisterForm.resources
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Forms.TasksForm.resources
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task_Managment_App.Properties.Resources.resources
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.csproj.GenerateResource.cache
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.AssemblyInfoInputs.cache
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.AssemblyInfo.cs
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.csproj.CoreCompileInputs.cache
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.sourcelink.json
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task Man.2C362951.Up2Date
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\refint\Task Managment App.dll
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.pdb
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\Task Managment App.genruntimeconfig.cache
+E:\ITI\Linq&EF\TaskManagementApp\Task Managment App\obj\Debug\net8.0-windows\ref\Task Managment App.dll
